@@ -29,7 +29,7 @@
 <a href="https://github.com/mkumar2177"><img alt="GitHub" src="https://img.shields.io/static/v1?label=&message=GITHUB&color=5C3A21&labelColor=0D1117&style=for-the-badge&logo=github&logoColor=white"></a>
 
 <br>
-<sub>B.Tech IT &nbsp;·&nbsp; ADGIPS, Delhi &nbsp;·&nbsp; GGSIPU &nbsp;·&nbsp; Batch 2023–27</sub>
+<sub>B.Tech IT &nbsp;·&nbsp; ADGIPS, Delhi &nbsp;·&nbsp; GGSIPU &nbsp;·&nbsp; Batch 2024-2028</sub>
 
 <br>
 <img alt="" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:5C3A21&height=90&section=footer">
