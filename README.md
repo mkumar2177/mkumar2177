@@ -42,7 +42,6 @@
 
 <b>Languages</b><br>
 <img alt="Python" src="https://img.shields.io/static/v1?label=&message=PYTHON&color=5C3A21&labelColor=0D1117&style=for-the-badge&logo=python&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=5C3A21&labelColor=0D1117&style=for-the-badge&logo=javascript&logoColor=white">
 <img alt="C++" src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=5C3A21&labelColor=0D1117&style=for-the-badge&logo=cplusplus&logoColor=white">
 <img alt="SQL" src="https://img.shields.io/static/v1?label=&message=MYSQL&color=5C3A21&labelColor=0D1117&style=for-the-badge&logo=mysql&logoColor=white">
 
