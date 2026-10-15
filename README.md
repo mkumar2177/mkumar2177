@@ -4,7 +4,7 @@
 <img alt="Mohd Khalid Umar" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A2A5E,100:2563EB&height=240&section=header&text=Mohd%20Khalid%20Umar&fontSize=54&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20AI&descSize=18&descAlignY=62">
 
 <!-- ═════════ 2. OPEN PORTFOLIO BUTTON ═════════ -->
-<a href="https://YOUR-PORTFOLIO-URL">
+<a href="https://mkumar2177-portfolio.vercel.app/">
   <img alt="Open Portfolio" width="430" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2A5E,100:2563EB&height=200&section=header&text=OPEN%20PORTFOLIO&fontSize=68&fontColor=FFFFFF&fontAlignY=52&animation=twinkling&stroke=60A5FA&strokeWidth=6">
 </a>
 
