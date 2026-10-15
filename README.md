@@ -4,9 +4,12 @@
 <img alt="Mohd Khalid Umar" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A2A5E,100:2563EB&height=240&section=header&text=Mohd%20Khalid%20Umar&fontSize=54&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20AI&descSize=18&descAlignY=62">
 
 <!-- ═════════ 2. PORTFOLIO BUTTON ═════════ -->
+<br>
 <a href="https://YOUR-PORTFOLIO-URL">
-  <img alt="Open portfolio" src="https://img.shields.io/badge/OPEN%20PORTFOLIO-%E2%86%97-0A2A5E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000">
+  <img alt="Open portfolio" src="assets/open-portfolio.svg" width="440">
 </a>
+
+<br><br>
 
 <!-- ═════════ 3. ANIMATED TYPING ═════════ -->
 <picture>
