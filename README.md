@@ -1,91 +1,122 @@
 <div align="center">
 
-<a href="https://github.com/mkumar2177">
-  <img alt="Mohd Khalid Umar, Data Science and Machine Learning" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=FF2D4A&center=true&vCenter=true&width=640&lines=Mohd+Khalid+Umar;Data+Science+%C2%B7+Machine+Learning+%C2%B7+AI;I+turn+data+into+working+models">
+<!-- ═════════ 1. NAME BANNER ═════════ -->
+<img alt="Mohd Khalid Umar" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A2A5E,100:2563EB&height=240&section=header&text=Mohd%20Khalid%20Umar&fontSize=54&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20AI&descSize=18&descAlignY=62">
+
+<!-- ═════════ 2. PORTFOLIO BUTTON ═════════ -->
+<a href="https://YOUR-PORTFOLIO-URL">
+  <img alt="Open portfolio" src="https://img.shields.io/badge/OPEN%20PORTFOLIO-%E2%86%97-0A2A5E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000">
 </a>
 
-B.Tech IT student at ADGIPS, Delhi (GGSIPU) · 3rd year · Open to Data Science / ML / AI / Analyst internships
+<!-- ═════════ 3. ANIMATED TYPING ═════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=620&height=45&lines=Turning+data+into+working+models;Regression+%C2%B7+Classification+%C2%B7+Clustering;Open+to+ML+%2F+Data+Analyst+internships">
+  <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=0A2A5E&center=true&vCenter=true&width=620&height=45&lines=Turning+data+into+working+models;Regression+%C2%B7+Classification+%C2%B7+Clustering;Open+to+ML+%2F+Data+Analyst+internships">
+</picture>
 
-[![Portfolio](https://img.shields.io/badge/ENTER_PORTFOLIO-0f766e?style=for-the-badge)](https://YOUR-PORTFOLIO-URL)
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=0f766e)](mailto:mohdkhalidumar1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0f766e)](https://www.linkedin.com/in/mohd-khalid-umar-2b1906315/)
+<br>
+
+<!-- ═════════ SOCIAL BUTTONS ═════════ -->
+<a href="https://www.linkedin.com/in/mohd-khalid-umar-2b1906315/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A2A5E?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:mohdkhalidumar1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/mkumar2177"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0A2A5E?style=for-the-badge&logo=github&logoColor=white"></a>
+
+<sub>B.Tech IT &nbsp;·&nbsp; ADGIPS, Delhi &nbsp;·&nbsp; GGSIPU &nbsp;·&nbsp; 3rd Year</sub>
+
+<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0A2A5E,100:2563EB&height=3">
+
+<!-- ═════════ TECH STACK ═════════ -->
+<img alt="Tech Stack" src="https://img.shields.io/badge/TECH%20STACK-0A2A5E?style=for-the-badge&labelColor=000000">
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,mysql,pandas,numpy,sklearn,powerbi,jupyter,git,github,vscode&theme=dark&perline=11">
+  <img alt="Python, C++, MySQL, Pandas, NumPy, Scikit-learn, Power BI, Jupyter, Git, GitHub, VS Code" src="https://skillicons.dev/icons?i=py,cpp,mysql,pandas,numpy,sklearn,powerbi,jupyter,git,github,vscode&theme=light&perline=11">
+</picture>
+
+<br><br>
+
+<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white">
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-0A2A5E?style=flat-square">
+<img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-000000?style=flat-square">
+<img alt="SQL" src="https://img.shields.io/badge/SQL-0A2A5E?style=flat-square">
+
+<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0A2A5E,100:2563EB&height=3">
+
+<!-- ═════════ FEATURED PROJECTS (clickable cards) ═════════ -->
+<img alt="Featured Projects" src="https://img.shields.io/badge/FEATURED%20PROJECTS-0A2A5E?style=for-the-badge&labelColor=000000">
+
+<br><br>
+
+<a href="https://github.com/mkumar2177/-Demo-smart-city-analytics-suite">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mkumar2177&repo=-Demo-smart-city-analytics-suite&bg_color=000000&title_color=60A5FA&text_color=FFFFFF&icon_color=2563EB&border_color=0A2A5E">
+    <img alt="Smart City Analytics Suite" src="https://github-readme-stats.vercel.app/api/pin/?username=mkumar2177&repo=-Demo-smart-city-analytics-suite&bg_color=FFFFFF&title_color=0A2A5E&text_color=000000&icon_color=2563EB&border_color=0A2A5E">
+  </picture>
+</a>
+<a href="https://github.com/mkumar2177/Car-Prize-Prediction-Using-Random_Forest_Regression">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mkumar2177&repo=Car-Prize-Prediction-Using-Random_Forest_Regression&bg_color=000000&title_color=60A5FA&text_color=FFFFFF&icon_color=2563EB&border_color=0A2A5E">
+    <img alt="Car Price Prediction" src="https://github-readme-stats.vercel.app/api/pin/?username=mkumar2177&repo=Car-Prize-Prediction-Using-Random_Forest_Regression&bg_color=FFFFFF&title_color=0A2A5E&text_color=000000&icon_color=2563EB&border_color=0A2A5E">
+  </picture>
+</a>
+
+<a href="https://github.com/mkumar2177/Credit-Card-Fraud-Prediction-ANN-">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mkumar2177&repo=Credit-Card-Fraud-Prediction-ANN-&bg_color=000000&title_color=60A5FA&text_color=FFFFFF&icon_color=2563EB&border_color=0A2A5E">
+    <img alt="Credit Card Fraud Prediction" src="https://github-readme-stats.vercel.app/api/pin/?username=mkumar2177&repo=Credit-Card-Fraud-Prediction-ANN-&bg_color=FFFFFF&title_color=0A2A5E&text_color=000000&icon_color=2563EB&border_color=0A2A5E">
+  </picture>
+</a>
+<a href="https://github.com/mkumar2177/Smart-Traffic-Management-System">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mkumar2177&repo=Smart-Traffic-Management-System&bg_color=000000&title_color=60A5FA&text_color=FFFFFF&icon_color=2563EB&border_color=0A2A5E">
+    <img alt="Smart Traffic Management" src="https://github-readme-stats.vercel.app/api/pin/?username=mkumar2177&repo=Smart-Traffic-Management-System&bg_color=FFFFFF&title_color=0A2A5E&text_color=000000&icon_color=2563EB&border_color=0A2A5E">
+  </picture>
+</a>
+
+<details>
+<summary><b>▸ More projects</b></summary>
+<br>
+<a href="https://github.com/mkumar2177/Data-science-">
+  <img alt="Breast Cancer KNN, Heart Disease Decision Tree, House Price Decision Tree" src="https://img.shields.io/badge/Breast%20Cancer%20%C2%B7%20Heart%20Disease%20%C2%B7%20House%20Price-0A2A5E?style=for-the-badge&logo=github&logoColor=white&labelColor=000000">
+</a>
+</details>
+
+<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0A2A5E,100:2563EB&height=3">
+
+<!-- ═════════ GITHUB ACTIVITY ═════════ -->
+<img alt="GitHub Activity" src="https://img.shields.io/badge/GITHUB%20ACTIVITY-0A2A5E?style=for-the-badge&labelColor=000000">
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mkumar2177&show_icons=true&bg_color=000000&title_color=60A5FA&icon_color=60A5FA&text_color=FFFFFF&border_color=0A2A5E">
+  <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=mkumar2177&show_icons=true&bg_color=FFFFFF&title_color=0A2A5E&icon_color=2563EB&text_color=000000&border_color=0A2A5E">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mkumar2177&layout=compact&bg_color=000000&title_color=60A5FA&text_color=FFFFFF&border_color=0A2A5E">
+  <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkumar2177&layout=compact&bg_color=FFFFFF&title_color=0A2A5E&text_color=000000&border_color=0A2A5E">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mkumar2177&background=000000&ring=60A5FA&fire=60A5FA&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&border=0A2A5E">
+  <img alt="GitHub streak" height="165" src="https://streak-stats.demolab.com?user=mkumar2177&background=FFFFFF&ring=0A2A5E&fire=2563EB&currStreakLabel=0A2A5E&currStreakNum=000000&sideLabels=0A2A5E&sideNums=000000&dates=4B5563&border=0A2A5E">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mkumar2177&bg_color=000000&color=FFFFFF&line=2563EB&point=FFFFFF&area=true&hide_border=true">
+  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mkumar2177&bg_color=FFFFFF&color=0A2A5E&line=2563EB&point=000000&area=true&hide_border=true">
+</picture>
+
+<!-- ═════════ FOOTER ═════════ -->
+<img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A2A5E,100:2563EB&height=110&section=footer">
 
 </div>
-
----
-
-### About
-I build machine learning projects on real datasets: cleaning data, engineering features, training and evaluating models, and presenting results in Streamlit apps. Currently contributing to **BHOOMI-AI**, a Smart India Hackathon 2026 project on predicting land-acquisition delays.
-
-### Projects (click to expand)
-
-<details open>
-<summary><b>Smart City Analytics Suite</b> · Random Forest, K-Means, Streamlit</summary>
-
-Multi-module urban analytics: traffic, crime hotspots, air quality and waste management, shown in an interactive dashboard.
-`Python` `Pandas` `NumPy` `Scikit-learn` `Streamlit`
-[Repository](https://github.com/mkumar2177/-Demo-smart-city-analytics-suite)
-</details>
-
-<details>
-<summary><b>Car Price Prediction</b> · Random Forest Regression</summary>
-
-Predicts used-car prices with data cleaning, feature encoding and held-out evaluation.
-[Repository](https://github.com/mkumar2177/Car-Prize-Prediction-Using-Random_Forest_Regression)
-</details>
-
-<details>
-<summary><b>Credit Card Fraud Prediction</b> · ANN</summary>
-
-Neural-network classifier for fraudulent transactions with preprocessing, scaling and evaluation.
-[Repository](https://github.com/mkumar2177/Credit-Card-Fraud-Prediction-ANN-)
-</details>
-
-<details>
-<summary><b>Smart Traffic Management System</b></summary>
-
-Traffic analytics project with app, dataset, models and notebooks.
-[Repository](https://github.com/mkumar2177/Smart-Traffic-Management-System)
-</details>
-
-<details>
-<summary><b>More ML notebooks</b> · KNN, Decision Tree</summary>
-
-Breast Cancer (KNN), Heart Disease (Decision Tree), House Price (Decision Tree regression).
-[Repository](https://github.com/mkumar2177/Data-science-)
-</details>
-
-### Skills (click to expand)
-
-<details>
-<summary><b>Programming and ML</b></summary>
-
-Python, SQL, C++ · NumPy, Pandas, Scikit-learn, EDA, feature engineering, regression, classification, clustering, ANN, model evaluation
-</details>
-
-<details>
-<summary><b>Visualization and tools</b></summary>
-
-Power BI, Matplotlib, Seaborn, Streamlit · Jupyter Notebook, VS Code, Git, GitHub
-</details>
-
-<p>
-<img alt="Python" src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=0f766e">
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=0f766e">
-<img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=0f766e">
-<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=0f766e">
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=0f766e">
-</p>
-
-### GitHub activity
-
-<p align="center">
-<img alt="GitHub stats for mkumar2177" height="150" src="https://github-readme-stats.vercel.app/api?username=mkumar2177&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0f766e&icon_color=0f766e&text_color=111827">
-<img alt="Top languages" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkumar2177&layout=compact&hide_border=true&bg_color=ffffff&title_color=0f766e&text_color=111827">
-</p>
-
-<p align="center"><a href="mailto:mohdkhalidumar1@gmail.com">mohdkhalidumar1@gmail.com</a></p>
-
 
 <!--
 **mkumar2177/mkumar2177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
