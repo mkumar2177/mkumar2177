@@ -3,13 +3,10 @@
 <!-- ═════════ 1. NAME BANNER ═════════ -->
 <img alt="Mohd Khalid Umar" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A2A5E,100:2563EB&height=240&section=header&text=Mohd%20Khalid%20Umar&fontSize=54&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20AI&descSize=18&descAlignY=62">
 
-<!-- ═════════ 2. PORTFOLIO BUTTON ═════════ -->
-<br>
+<!-- ═════════ 2. OPEN PORTFOLIO BUTTON ═════════ -->
 <a href="https://YOUR-PORTFOLIO-URL">
-  <img alt="Open portfolio" src="assets/open-portfolio.svg" width="440">
+  <img alt="Open Portfolio" width="430" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2A5E,100:2563EB&height=200&section=header&text=OPEN%20PORTFOLIO&fontSize=68&fontColor=FFFFFF&fontAlignY=52&animation=twinkling&stroke=60A5FA&strokeWidth=6">
 </a>
-
-<br><br>
 
 <!-- ═════════ 3. ANIMATED TYPING ═════════ -->
 <picture>
@@ -19,7 +16,6 @@
 
 <br>
 
-<!-- ═════════ SOCIAL BUTTONS ═════════ -->
 <a href="https://www.linkedin.com/in/mohd-khalid-umar-2b1906315/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A2A5E?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:mohdkhalidumar1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/mkumar2177"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0A2A5E?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -28,14 +24,46 @@
 
 <img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0A2A5E,100:2563EB&height=3">
 
-<!-- ═════════ TECH STACK ═════════ -->
+<!-- ═════════ 4. ML WORKFLOW ═════════ -->
+<img alt="ML Workflow" src="https://img.shields.io/badge/ML%20WORKFLOW-0A2A5E?style=for-the-badge&labelColor=000000">
+
+<br><br>
+
+<img alt="Data Cleaning" src="https://img.shields.io/badge/Data%20Cleaning-000000?style=flat-square&logo=pandas&logoColor=white">
+<img alt="arrow" src="https://img.shields.io/badge/%E2%86%92-0A2A5E?style=flat-square">
+<img alt="EDA" src="https://img.shields.io/badge/EDA-0A2A5E?style=flat-square&logo=jupyter&logoColor=white">
+<img alt="arrow" src="https://img.shields.io/badge/%E2%86%92-000000?style=flat-square">
+<img alt="Feature Engineering" src="https://img.shields.io/badge/Feature%20Engineering-000000?style=flat-square&logo=numpy&logoColor=white">
+<img alt="arrow" src="https://img.shields.io/badge/%E2%86%92-0A2A5E?style=flat-square">
+<img alt="Model Building" src="https://img.shields.io/badge/Model%20Building-0A2A5E?style=flat-square&logo=scikitlearn&logoColor=white">
+<img alt="arrow" src="https://img.shields.io/badge/%E2%86%92-000000?style=flat-square">
+<img alt="Evaluation" src="https://img.shields.io/badge/Evaluation-000000?style=flat-square&logo=python&logoColor=white">
+<img alt="arrow" src="https://img.shields.io/badge/%E2%86%92-0A2A5E?style=flat-square">
+<img alt="Deployment" src="https://img.shields.io/badge/Streamlit%20App-0A2A5E?style=flat-square&logo=streamlit&logoColor=white">
+
+<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0A2A5E,100:2563EB&height=3">
+
+<!-- ═════════ 5. TECH STACK ═════════ -->
 <img alt="Tech Stack" src="https://img.shields.io/badge/TECH%20STACK-0A2A5E?style=for-the-badge&labelColor=000000">
 
 <br><br>
 
+<sub><b>LANGUAGES</b></sub><br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,mysql,pandas,numpy,sklearn,powerbi,jupyter,git,github,vscode&theme=dark&perline=11">
-  <img alt="Python, C++, MySQL, Pandas, NumPy, Scikit-learn, Power BI, Jupyter, Git, GitHub, VS Code" src="https://skillicons.dev/icons?i=py,cpp,mysql,pandas,numpy,sklearn,powerbi,jupyter,git,github,vscode&theme=light&perline=11">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,mysql&theme=dark">
+  <img alt="Python, C++, MySQL" src="https://skillicons.dev/icons?i=py,cpp,mysql&theme=light">
+</picture>
+
+<sub><b>DATA SCIENCE &amp; ML</b></sub><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pandas,numpy,sklearn,jupyter&theme=dark">
+  <img alt="Pandas, NumPy, Scikit-learn, Jupyter" src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,jupyter&theme=light">
+</picture>
+
+<sub><b>VISUALIZATION &amp; TOOLS</b></sub><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=powerbi,git,github,vscode&theme=dark">
+  <img alt="Power BI, Git, GitHub, VS Code" src="https://skillicons.dev/icons?i=powerbi,git,github,vscode&theme=light">
 </picture>
 
 <br><br>
@@ -43,11 +71,10 @@
 <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white">
 <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-0A2A5E?style=flat-square">
 <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-000000?style=flat-square">
-<img alt="SQL" src="https://img.shields.io/badge/SQL-0A2A5E?style=flat-square">
 
 <img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0A2A5E,100:2563EB&height=3">
 
-<!-- ═════════ FEATURED PROJECTS (clickable cards) ═════════ -->
+<!-- ═════════ 6. FEATURED PROJECTS ═════════ -->
 <img alt="Featured Projects" src="https://img.shields.io/badge/FEATURED%20PROJECTS-0A2A5E?style=for-the-badge&labelColor=000000">
 
 <br><br>
@@ -88,8 +115,8 @@
 
 <img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0A2A5E,100:2563EB&height=3">
 
-<!-- ═════════ GITHUB ACTIVITY ═════════ -->
-<img alt="GitHub Activity" src="https://img.shields.io/badge/GITHUB%20ACTIVITY-0A2A5E?style=for-the-badge&labelColor=000000">
+<!-- ═════════ 7. GITHUB ANALYTICS ═════════ -->
+<img alt="GitHub Analytics" src="https://img.shields.io/badge/GITHUB%20ANALYTICS-0A2A5E?style=for-the-badge&labelColor=000000">
 
 <br><br>
 
@@ -112,26 +139,23 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mkumar2177&bg_color=000000&color=FFFFFF&line=2563EB&point=FFFFFF&area=true&hide_border=true">
-  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mkumar2177&bg_color=FFFFFF&color=0A2A5E&line=2563EB&point=000000&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mkumar2177&theme=github_dark">
+  <img alt="Repos per language" width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mkumar2177&theme=default">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mkumar2177&theme=github_dark">
+  <img alt="Most commit language" width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mkumar2177&theme=default">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mkumar2177&theme=github_dark&utcOffset=5.5">
+  <img alt="Productive time" width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mkumar2177&theme=default&utcOffset=5.5">
+</picture>
+
+<br><br>
+
+<img alt="Contribution heatmap" src="https://ghchart.rshah.org/2563EB/mkumar2177" width="90%">
 
 <!-- ═════════ FOOTER ═════════ -->
 <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A2A5E,100:2563EB&height=110&section=footer">
 
 </div>
-
-<!--
-**mkumar2177/mkumar2177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
