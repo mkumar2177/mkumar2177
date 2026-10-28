@@ -16,7 +16,7 @@
 <p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 <h2 align="center">About</h2>
-<p align="center"><img src="assets/about.svg" alt="Focus: ML, Data Analytics, Full-Stack. Currently: DSA and Data Science. Looking for: ML / Data Analyst internships and freelance." width="100%"></p>
+<p align="center"><img src="assets/about .svg" alt="Focus: ML, Data Analytics, Full-Stack. Currently: DSA and Data Science. Looking for: ML / Data Analyst internships and freelance." width="100%"></p>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
