@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 270" width="900" height="270">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FBF3E8"/><stop offset="1" stop-color="#E6CBA8"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#C8A27A"/><stop offset="1" stop-color="#8B5E3C"/></linearGradient>
+    <clipPath id="c"><rect width="900" height="270" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="900" height="270" fill="url(#bg)"/>
+    <g fill="#C8A27A" opacity="0.28">
+      <circle cx="120" cy="60" r="26"><animate attributeName="cy" values="60;40;60" dur="5s" repeatCount="indefinite"/></circle>
+      <circle cx="430" cy="40" r="14"><animate attributeName="cy" values="40;62;40" dur="4s" repeatCount="indefinite"/></circle>
+      <circle cx="520" cy="150" r="20"><animate attributeName="cy" values="150;128;150" dur="6s" repeatCount="indefinite"/></circle>
+      <circle cx="840" cy="40" r="30"><animate attributeName="cy" values="40;64;40" dur="7s" repeatCount="indefinite"/></circle>
+      <circle cx="330" cy="200" r="10"><animate attributeName="cy" values="200;180;200" dur="3.5s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- bars -->
+    <g>
+      <rect x="560" y="205" width="30" height="0" rx="5" fill="url(#bar)"><animate attributeName="height" values="0;55;55;0" keyTimes="0;0.3;0.85;1" dur="5s" repeatCount="indefinite"/><animate attributeName="y" values="205;150;150;205" keyTimes="0;0.3;0.85;1" dur="5s" repeatCount="indefinite"/></rect>
+      <rect x="605" y="205" width="30" height="0" rx="5" fill="url(#bar)"><animate attributeName="height" values="0;85;85;0" keyTimes="0;0.35;0.85;1" dur="5s" repeatCount="indefinite"/><animate attributeName="y" values="205;120;120;205" keyTimes="0;0.35;0.85;1" dur="5s" repeatCount="indefinite"/></rect>
+      <rect x="650" y="205" width="30" height="0" rx="5" fill="url(#bar)"><animate attributeName="height" values="0;70;70;0" keyTimes="0;0.4;0.85;1" dur="5s" repeatCount="indefinite"/><animate attributeName="y" values="205;135;135;205" keyTimes="0;0.4;0.85;1" dur="5s" repeatCount="indefinite"/></rect>
+      <rect x="695" y="205" width="30" height="0" rx="5" fill="url(#bar)"><animate attributeName="height" values="0;115;115;0" keyTimes="0;0.45;0.85;1" dur="5s" repeatCount="indefinite"/><animate attributeName="y" values="205;90;90;205" keyTimes="0;0.45;0.85;1" dur="5s" repeatCount="indefinite"/></rect>
+      <rect x="740" y="205" width="30" height="0" rx="5" fill="url(#bar)"><animate attributeName="height" values="0;98;98;0" keyTimes="0;0.5;0.85;1" dur="5s" repeatCount="indefinite"/><animate attributeName="y" values="205;107;107;205" keyTimes="0;0.5;0.85;1" dur="5s" repeatCount="indefinite"/></rect>
+      <rect x="785" y="205" width="30" height="0" rx="5" fill="url(#bar)"><animate attributeName="height" values="0;150;150;0" keyTimes="0;0.55;0.85;1" dur="5s" repeatCount="indefinite"/><animate attributeName="y" values="205;55;55;205" keyTimes="0;0.55;0.85;1" dur="5s" repeatCount="indefinite"/></rect>
+      <polyline points="575,140 620,110 665,125 710,80 755,97 800,45" fill="none" stroke="#4A2E1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="400" stroke-dashoffset="400">
+        <animate attributeName="stroke-dashoffset" values="400;400;0;0;400" keyTimes="0;0.3;0.6;0.85;1" dur="5s" repeatCount="indefinite"/>
+      </polyline>
+      <circle cx="800" cy="45" r="6" fill="#4A2E1A"><animate attributeName="r" values="4;8;4" dur="1.4s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- waves -->
+    <path fill="#C8A27A" opacity="0.55" d="M0 238 q112.5 -28 225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 V270 H0 Z">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-450 0" dur="7s" repeatCount="indefinite"/></path>
+    <path fill="#A67B5B" opacity="0.5" d="M-450 248 q112.5 -24 225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 V270 H-450 Z">
+      <animateTransform attributeName="transform" type="translate" values="-450 0;0 0" dur="11s" repeatCount="indefinite"/></path>
+
+    <!-- text -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="-40 0;0 0" dur="1.1s" fill="freeze"/>
+      <text x="50" y="98" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="800" fill="#4A2E1A" opacity="0">Mohd Khalid Umar
+        <animate attributeName="opacity" values="0;1" dur="1.1s" fill="freeze"/></text>
+    </g>
+    <rect x="52" y="112" width="0" height="4" rx="2" fill="#A67B5B"><animate attributeName="width" values="0;230" dur="1.4s" begin="0.6s" fill="freeze"/></rect>
+    <text x="52" y="146" font-family="Consolas, Menlo, monospace" font-size="17" font-weight="600" fill="#8B5E3C" opacity="0">Data Science  ·  Machine Learning  ·  MERN Stack
+      <animate attributeName="opacity" values="0;1" dur="1s" begin="0.8s" fill="freeze"/></text>
+    <g font-family="Consolas, Menlo, monospace" font-size="16" font-weight="600" fill="#6B4226">
+      <text x="52" y="190" opacity="0">&gt; Turning raw data into working products
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.3;0.33;1" dur="9s" repeatCount="indefinite"/></text>
+      <text x="52" y="190" opacity="0">&gt; Building real systems, not toys
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.37;0.63;0.66;1" dur="9s" repeatCount="indefinite"/></text>
+      <text x="52" y="190" opacity="0">&gt; Open to ML / Data Analyst internships
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.70;0.96;1" dur="9s" repeatCount="indefinite"/></text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="898" height="268" rx="17" fill="none" stroke="#C8A27A" stroke-width="2"/>
+</svg>
